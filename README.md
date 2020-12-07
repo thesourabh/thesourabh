@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am a full stack software engineer with 3+ years of work experience currently working at Bloomberg in New York City 🗽.
+
+I have a Masters degree in Computer Science from Virginia Tech, and also additional experience as a graduate teaching and research assistant.
+
+Here are some of the personal projects I've worked on over the years.
+
 <!--
 **thesourabh/thesourabh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
