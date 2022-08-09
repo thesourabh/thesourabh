@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I am a full stack software engineer with 4+ years of work experience currently working at Facebook/Meta in New York City 🗽.
+I am a full stack software engineer with 4+ years of work experience currently working at Instagram in New York City 🗽.
 
-I have a Masters degree in Computer Science from Virginia Tech, and previously also worked at Bloomberg.
+I have a Masters degree in Computer Science and previously also worked at Bloomberg.
 
-Here are some of the personal projects I've worked on over the years.
+I enjoy building client-facing products, and here are some of the personal projects I've worked on over the years.
 
 <!--
 **thesourabh/thesourabh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
