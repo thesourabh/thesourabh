@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a full stack software engineer with 4+ years of work experience currently working at Instagram in New York City 🗽.
+I am a full stack software engineer with 8+ years of work experience currently working at Instagram in New York City 🗽.
 
 I have a Masters degree in Computer Science and previously also worked at Bloomberg.
 
